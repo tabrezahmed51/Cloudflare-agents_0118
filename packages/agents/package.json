@@ -43,7 +43,7 @@
     "@cloudflare/workers-oauth-provider": "^0.1.0",
     "@types/yargs": "^17.0.35",
     "react": "*",
-    "vitest-browser-react": "^1.0.1",
+    "vitest-browser-react": "^2.2.0",
     "x402": "^0.7.3"
   },
   "peerDependencies": {
