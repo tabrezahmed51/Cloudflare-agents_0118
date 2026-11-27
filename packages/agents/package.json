@@ -26,7 +26,7 @@
   "dependencies": {
     "@ai-sdk/openai": "2.0.73",
     "@cfworker/json-schema": "^4.1.1",
-    "@modelcontextprotocol/sdk": "^1.23.0",
+    "@modelcontextprotocol/sdk": "^1.32.2",
     "ai": "5.0.103",
     "cron-schedule": "^6.0.0",
     "json-schema": "^0.4.0",
@@ -36,7 +36,7 @@
     "partyserver": "^0.0.75",
     "partysocket": "1.1.6",
     "yargs": "^18.0.0",
-    "zod": "^3.25.76",
+    "zod": "^4.6.6",
     "zod-to-ts": "^2.0.0"
   },
   "devDependencies": {

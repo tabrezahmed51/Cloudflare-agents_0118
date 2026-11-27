@@ -4,7 +4,7 @@
   "author": "Matt Carey <mcarey@cloudflare.com>",
   "dependencies": {
     "@a2a-js/sdk": "^0.2.2",
-    "hono": "^4.12.28"
+    "hono": "^4.13.23"
   },
   "keywords": [],
   "scripts": {
